@@ -1,6 +1,8 @@
 # teste-tecnico-financeiro
 
-# 1 Credito
+# 1 Credito Bancário
+esta no arquivo CreditoBancario.sln 
+também está no arquivo zipado. 
 teste tecnico desenvolvedor .net area financeira. 
 
 
@@ -12,6 +14,7 @@ CREDITO PESSOA FISICA - 4
 CREDITO IMOBILIARIO - 5
 
 # 2 Oracle
+está no arquivo criacao-emprestimo.sql
 
 # 3 Conceitual sobre microserviços
 está no arquivo MICROSERVIçO.docx
